@@ -4,8 +4,6 @@ A landing page concept for a digital forensics service, with a drag-and-drop evi
 
 **Live demo:** https://yosef-tamer206.github.io/Task-1-GD/
 
-![Task-1-GD screenshot](docs/screenshot.png)
-
 ## Features
 
 - Dark and light theme toggle, saved between visits (`localStorage`)
